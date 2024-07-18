@@ -21,8 +21,8 @@
 </p>  
 
 <h3 align="left">📈Stats</h3>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao0301&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giabao0301" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao0301&show_icons=true&locale=en&layout=compact" alt="giabao0301" /></p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giabao0301&show_icons=true&locale=en&theme=transparent" alt="giabao0301" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giabao0301&show_icons=true&locale=en" alt="giabao0301" /></p>  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giabao0301&theme=transparent" alt="giabao0301" /></p>
