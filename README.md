@@ -11,7 +11,7 @@
 <h3 align="left">⚙️Tech Stack</h3>  
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,typescript,spring,react,mysql,mongo,redis,docker&theme=light" height=32/>
+    <img src="https://skillicons.dev/icons?i=java,js,typescript,spring,nextjs,react,tailwind,mysql,mongo,redis,docker&theme=light" height=32/>
 </p>
 
   <h3 align="left">🤝Connect with me:</h3>  
